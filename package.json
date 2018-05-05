@@ -1,5 +1,5 @@
 {
-    "name": "css-video-background",
+    "name": "css-fade-in-link-target",
     "version": "0.0.0",
     "license": "MIT",
     "scripts": {
@@ -7,7 +7,6 @@
         "lite": "lite-server"
     },
     "dependencies": {
-        "svg-path-bounds": "^1.0.1"
     },
     "devDependencies": {
         "lite-server": "2.2.2",
