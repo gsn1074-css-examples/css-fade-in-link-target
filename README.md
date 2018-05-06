@@ -1,6 +1,6 @@
 # css-fade-in-link-target
 
-This project show how to fade in elements when a link is clicked.
+This project shows how to fade in elements when a link is clicked.
 
 ## Development server
 
